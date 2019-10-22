@@ -28,7 +28,6 @@ build/
 ### VS Code ###
 .vscode/
 .mvn/
-frontend/.gitignore
 frontend/node_modules/
 frontend/node
 mvnw
